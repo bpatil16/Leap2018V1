@@ -13,11 +13,18 @@
 
 **Work Experience:**
 
-**Data Science Trainee**                                                       **October 2017 - Present**
+**Associate Software Engineer**                                                       **December 2017 - Present**
+
+**Microsoft via Terawe, Bellevue, WA**
+
+- Responsible for Azure Stack continuous integration and maintenance of jobs using Jenkins and powershell.
+
+**Data Science Trainee**                                                       **October 2017 - December 2017**
 
 **Terawe, Bellevue, WA**
 
 - Simulating AlexNet model to detect objects in images using Microsoft Cognitive toolkit (CNTK), FastR-CNN algorithm, and python.
+- Build Web App in Azure using Python Flask and Azure Blob Storage
 
 **Student**
 
